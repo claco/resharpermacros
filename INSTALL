@@ -1,0 +1,4 @@
+﻿To install this macro, place the dll in one of the following locations:
+
+ - "All Users" — use the Plugins folder under the R# assemblies location, "<R#InstallDir>/Bin/Plugins".
+ - "Current User Only" — use the Plugins folder under the R# Roaming Application Data folder, "<RoamingAppData>/ReSharper/v<ReSharperVersion>/vs<VsVersion><VsRootSuffix>/Plugins".
